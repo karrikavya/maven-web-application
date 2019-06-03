@@ -89,12 +89,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.55.202:8081/repository/kavya-release/</url>
+	      <url>http://13.127.115.33:8081/repository/kavya-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.55.202:8081/repository/kavya-snapshot/</url>
+	      <url>http://13.127.115.33:8081/repository/kavya-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
